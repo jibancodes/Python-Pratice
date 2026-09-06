@@ -17,9 +17,9 @@ print(x>=y)
 print(x<=y)
 
 #Logical Operators
-print("AND operator result:",x>y and x<y)
-print("OR operator result:",x>y or x<y)
-print("NOT operator result:",not(x>y))
+print("AND operator result:",x>y and x<y) #o/p=false
+print("OR operator result:",x>y or x<y) #o/p=true
+print("NOT operator result:",not(x>y)) #o/p=false
 
 #Assignment Operatiors
 a=2
